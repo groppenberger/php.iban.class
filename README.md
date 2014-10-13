@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PHP IBAN Class
 ==============
 
@@ -9,3 +10,9 @@ Features:
 * Validate IBAN Codes
 * Parse IBAN Code
 
+=======
+php.iban.class
+==============
+
+Iban PHP Class
+>>>>>>> 31ec50057c1a0dedabeee14258152c93741c99d7
